@@ -2,8 +2,10 @@ base
 countrycode
 ggmap
 ggplot2
+ineq
 knitr
 mapproj
 maps
 plyr
+reshape2
 scales
