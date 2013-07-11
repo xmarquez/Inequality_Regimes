@@ -1,0 +1,1 @@
+Code for replicating all the graphs in the post on [inequality regimes and Rawlsian growth rates](), warts and all. It sort of works for me using R version 3.0.1, by running all the code chunks in the file Inequality Regimes Post.Rmd (which basically just is the post)
